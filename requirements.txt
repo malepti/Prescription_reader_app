@@ -1,0 +1,6 @@
+streamlit
+google-genai
+Pillow
+gTTS
+pandas
+google-generativeai
